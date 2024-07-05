@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:developer';
 import 'package:http/http.dart' as http;
 import 'package:task_api/src/data/datasource/remote_service.dart';
-import 'package:task_api/src/data/models/user_model.dart';
+import 'package:task_api/src/data/models/post_model.dart';
 
 class PostApiService implements RemoteService {
   final baseurl = 'https://jsonplaceholder.typicode.com';

@@ -1,5 +1,5 @@
 import 'package:task_api/src/data/datasource/remote_service.dart';
-import 'package:task_api/src/data/models/user_model.dart';
+import 'package:task_api/src/data/models/post_model.dart';
 import 'package:task_api/src/domain/repositories/post_repository.dart';
 
 /// Implementation of the PostRepository interface using a remote service.

@@ -1,4 +1,4 @@
-import 'package:task_api/src/data/models/user_model.dart';
+import 'package:task_api/src/data/models/post_model.dart';
 
 abstract class RemoteService {
   /// Fetches a list of posts.
